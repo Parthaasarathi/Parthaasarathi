@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics, Machine Learning* and *Deep Learning*.**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning** and **Deep Learning.**
 
 - 👯 I’m looking to collaborate on **projects that invole model building using machine learning and deep learning.**
 
