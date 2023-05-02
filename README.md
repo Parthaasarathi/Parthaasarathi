@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning** and **Deep Learning.**
 
-- 👯 I’m looking to collaborate on **projects that invole model building using machine learning and deep learning.**
+- 👯 I’m looking to collaborate on **projects that involve model building using machine learning and deep learning.**
 
 - 💬 Ask me about **MySQL, Python, Statistics & Probability, Visualization With Python, Machine Learning With Python**
 
